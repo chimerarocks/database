@@ -1,5 +1,25 @@
 {
 	"name": "chimerarocks/database",
+	"description": "Repository pattern implementation library",
+	"license": "MIT",
+	"keyword": [
+		"repository pattern",
+		"database"
+	],
+	"authors": [
+		{
+			"name": "Luiz Carlos",
+			"email": "argentinaluiz@gmail.com"
+		},
+		{
+			"name": "Wesley Williams",
+			"email": "wesleywilliams@gmail.com"
+		},
+		{
+			"name": "João Pedro",
+			"email": "joaopedrodslv@gmail.com"
+		}
+	],
 	"require": {
 		"php": ">=5.5.9",
 		"illuminate/database": "~5.2"
