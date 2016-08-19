@@ -1,6 +1,6 @@
 {
 	"name": "chimerarocks/database",
-	"description": "Repository pattern implementation library",
+	"description": "A Repository pattern implementation library that was part of a Code Education course. But i decide to keep with the project.",
 	"license": "MIT",
 	"keyword": [
 		"repository pattern",
